@@ -1,0 +1,44 @@
+{
+    "animationX": 1,
+    "animationY": 1,
+    "cameraRegion": 1,
+    "constantTable": [
+        {
+            "literal": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "name": "colorTint",
+            "nameHash": 3054254906
+        }
+    ],
+    "gameFlags": 0,
+    "maps": [
+        {
+            "firstCharacter": 99,
+            "image": "weapon_trinium_site_c",
+            "lastCharacter": 112,
+            "sampleState": -21,
+            "semantic": 2,
+            "typeHash": 2695565377
+        }
+    ],
+    "name": "mc/mtl_weapon_trinium_sight_glow",
+    "sortKey": 33,
+    "stateFlags": 19,
+    "stateMap": [
+        [
+            1495370018,
+            12
+        ],
+        [
+            2282915858,
+            3835578668
+        ]
+    ],
+    "surfaceTypeBits": 0,
+    "techniqueSet->name": "mc_unlit_add_lin",
+    "unknown": 0
+}
