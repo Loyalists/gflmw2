@@ -7,7 +7,7 @@ Girls' Frontline: Modern Warfare 2
 [Credits](https://github.com/Loyalists/GFLMW2/wiki/Credits)   
 
 # Useful links
-cod-mod: https://github.com/momo5502/cod-mod  
+cod-mod: https://github.com/GEEKiDoS/cod-mod/tree/gfl  
 COD4 Mod Tools: https://github.com/promod/CoD4-Mod-Tools  
 ZoneTool: https://github.com/ZoneTool/zonetool  
 zonetool-binaries: https://github.com/ZoneTool/zonetool-binaries  
