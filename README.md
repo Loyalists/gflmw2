@@ -1,6 +1,9 @@
 # GFLMW2
 Girls' Frontline: Modern Warfare 2
 
+# Wiki
+[How To Use](https://github.com/Loyalists/GFLMW2/wiki/How-to-use) 
+
 # Useful links
 cod-mod: https://github.com/momo5502/cod-mod  
 COD4 Mod Tools: https://github.com/promod/CoD4-Mod-Tools  
