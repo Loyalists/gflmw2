@@ -3,6 +3,7 @@ Girls' Frontline: Modern Warfare 2
 
 # Wiki
 [How To Use](https://github.com/Loyalists/GFLMW2/wiki/How-to-use)   
+[Releases](https://github.com/Loyalists/GFLMW2/releases)   
 [Gallery](https://github.com/Loyalists/GFLMW2/wiki/Gallery)   
 [Credits](https://github.com/Loyalists/GFLMW2/wiki/Credits)   
 
